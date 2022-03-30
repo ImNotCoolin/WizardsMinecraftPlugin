@@ -1,0 +1,4 @@
+name: Wizards
+version: '${project.version}'
+main: me.colin.wizards.Wizards
+api-version: 1.18
